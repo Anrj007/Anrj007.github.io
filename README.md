@@ -17,6 +17,4 @@ Welcome to my portfolio website! This website showcases my projects, skills, and
 ## 🚀 Live Demo
 You can view the live version of my website here: [My Portfolio](https://anrj007.github.io/)
 
-## 📂 Installation
-To run this project locally, follow these steps:
 
